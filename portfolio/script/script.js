@@ -15,3 +15,12 @@ menu.onclick =()=>{
     menu.classList.toggle('fa-xmark');
     nav_links.classList.toggle('open');
 }
+
+let btnclear=document.querySelector(".button1");
+let inputs=document.querySelectorAll("input");
+let commfield=document.querySelector(".commfield");
+
+btnclear.addEventListener('click',()=>{
+    inputs.forEach(input => input.value='');
+    commfield.value='';
+})
