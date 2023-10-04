@@ -345,6 +345,7 @@ input:not(:placeholder-shown) {
     border-radius: 15px;
 }
 .button1{
+    cursor: pointer;
     background:linear-gradient(to right,var(--button-color),var(--second-color));
     width:100px;
     height:40px;
