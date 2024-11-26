@@ -116,7 +116,7 @@ body{
         margin-top: 5px;
     }
     .card{
-        margin-top: 100px;
+        margin-top: 10px;
     }
 }
 
@@ -128,7 +128,7 @@ body{
         margin-top: 8px;
     }
     .card{
-        margin-top: 250px;
+        margin-top: 25px;
     }
 }
 
@@ -140,6 +140,6 @@ body{
         margin-top: 15px;
     }
     .card{
-        margin-top: 500px;
+        margin-top: 50px;
     }
 }
